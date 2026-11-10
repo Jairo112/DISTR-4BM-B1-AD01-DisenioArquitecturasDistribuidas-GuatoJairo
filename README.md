@@ -104,6 +104,7 @@ El desarrollo se apoyó en IA (Claude Code como revisor y ChatGPT Codex como imp
 - `sql/`: creación de las tres bases y esquema completo; ver [instrucciones SQL](sql/README.md).
 - `docs/datos-prueba.sql`: datos ficticios de demostración.
 - `postman/`: colección JSON y entorno Local listos para importar.
-- `docs/Registro_Prompts_y_Fuentes_GuatoJairo.pdf`: registro de uso de IA.
+- `docs/Registro_Prompts_y_Fuentes_GuatoJairo.docx`: documento original de registro de uso de IA, conservado sin modificaciones.
+- `docs/Registro_Prompts_y_Fuentes_GuatoJairo.pdf`: exportación directa del documento original mediante Microsoft Word.
 
 Nombre de entrega: `DISTR-4BM-B1-AD01-DisenioArquitecturasDistribuidas-GuatoJairo`.
