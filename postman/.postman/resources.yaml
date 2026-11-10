@@ -1,0 +1,14 @@
+# Use this workspace to collaborate
+workspace:
+  id: 282a6eb9-6f09-456e-84e7-c9a9f9498df3
+
+localResources:
+  collections:
+    - ../DISTR-AD01-Microservicios.postman_collection.json
+  environments:
+    - ../Local.environment.yaml
+
+# Each entry here maps a local resource to one or more corresponding objects in Postman Cloud
+
+cloudResources:
+  collections: {}

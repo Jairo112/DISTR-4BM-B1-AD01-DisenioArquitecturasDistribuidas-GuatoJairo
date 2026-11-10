@@ -1,0 +1,8 @@
+name: Local
+values:
+  - key: catalogoUrl
+    value: 'http://localhost:5101'
+  - key: inventarioUrl
+    value: 'http://localhost:5102'
+  - key: pedidosUrl
+    value: 'http://localhost:5103'
